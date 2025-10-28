@@ -1,0 +1,8 @@
+#for environment
+python -m venv env
+env\Scripts\activate  # Windows
+
+#admin
+user:hp
+email:email@mail.com
+pass:hp
